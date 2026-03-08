@@ -104,26 +104,6 @@ Excel features used:
 * Dashboard Design
 
 ---
-
-# 📂 Repository Structure
-
-```
-fnp-sales-analysis-dashboard
-│
-├── dataset
-│   └── fnp_sales_data.xlsx
-│
-├── dashboard
-│   └── fnp_sales_dashboard.xlsx
-│
-├── images
-│   └── dashboard_preview.png
-│
-└── README.md
-```
-
----
-
 # 💡 Key Insights
 
 From the analysis, several insights can be observed:
@@ -138,10 +118,6 @@ These insights can help the business optimize marketing campaigns, inventory pla
 ---
 
 # 📸 Dashboard Preview
-
-*(Add a screenshot of your dashboard here)*
+<img width="1476" height="589" alt="image" src="https://github.com/user-attachments/assets/425a2c28-7e33-46da-9317-2a47ff417c4a" />
 
 ---
-
-GitHub:
-https://github.com/Mennah-Elsheikh
