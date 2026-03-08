@@ -1,8 +1,17 @@
 # 📊 FNP Sales Analysis Dashboard (Excel)
 
-An interactive **Microsoft Excel dashboard** analyzing sales performance for **FNP (Ferns and Petals)**, an online gifting platform that delivers products for occasions such as **Diwali, Raksha Bandhan, Valentine's Day, Birthdays, and Anniversaries**.
+## 📸 Dashboard Preview
 
-The goal of this project is to analyze sales data and uncover **key business insights related to revenue trends, product performance, customer behavior, and delivery efficiency**.
+<img width="1476" height="589" alt="image" src="https://github.com/user-attachments/assets/3e16b186-466c-4f2d-8682-42efb49e62b3" />
+
+
+---
+
+## 📖 Project Overview
+
+This project presents an **interactive Excel dashboard** analyzing sales performance for **FNP (Ferns and Petals)**, a gifting platform specializing in occasion-based products such as Diwali, Raksha Bandhan, Valentine’s Day, Birthdays, and Anniversaries.
+
+The dashboard helps uncover **key insights about revenue trends, customer spending behavior, product performance, and delivery efficiency**.
 
 ---
 
@@ -10,114 +19,46 @@ The goal of this project is to analyze sales data and uncover **key business ins
 
 This project aims to answer important business questions that can help improve sales strategy and customer satisfaction:
 
-1. **Total Revenue** – Identify the overall revenue generated.
-2. **Average Delivery Time** – Evaluate how long it takes for orders to be delivered.
-3. **Monthly Sales Performance** – Examine how sales fluctuate throughout the year.
-4. **Top Products by Revenue** – Determine which products generate the most revenue.
-5. **Customer Spending Analysis** – Understand how much customers spend on average.
-6. **Top Cities by Number of Orders** – Identify cities with the highest order volumes.
-7. **Revenue Comparison Between Occasions** – Analyze how different events impact sales.
-8. **Sales Distribution by Hour** – Identify peak ordering hours.
-9. **Product Performance Analysis** – Track the performance of top products.
-
+1. Total Revenue – Identify the overall revenue generated.
+2. Average Delivery Time – Evaluate how long it takes for orders to be delivered.
+3. Monthly Sales Performance – Examine how sales fluctuate throughout the year.
+4. Top Products by Revenue – Determine which products generate the most revenue.
+5. Customer Spending Analysis – Understand how much customers spend on average.
+6. Top Cities by Number of Orders – Identify cities with the highest order volumes.
+7. Revenue Comparison Between Occasions – Analyze how different events impact sales.
+8. Sales Distribution by Hour – Identify peak ordering hours.
+9. Product Performance Analysis – Track the performance of top products.
+    
 ---
 
-# 📊 Dashboard Features
-
-The dashboard highlights key performance indicators (KPIs):
+## 📊 Key Metrics
 
 * **Total Orders:** 1000
 * **Total Revenue:** $3,520,984
 * **Average Delivery Time:** 5.53 days
 * **Average Customer Spending:** $3,521
 
-These metrics provide a quick overview of the business performance.
+---
+
+## 📈 Dashboard Visualizations
+
+* Top 5 Products by Revenue
+* Revenue by Category
+* Top 10 Cities by Orders
+* Monthly Revenue Trend
+* Revenue by Hour of the Day
+* Revenue by Occasion
 
 ---
 
-# 📈 Dashboard Visualizations
+## 🛠 Tools Used
 
-The dashboard includes several charts for deeper insights:
-
-### Top 5 Products by Revenue
-
-A bar chart displaying the highest revenue-generating products.
-
-### Revenue by Category
-
-A pie chart showing revenue distribution across categories such as:
-
-* Colors
-* Soft Toys
-* Sweets
-* Cakes
-* Plants
-* Mugs
-
-### Top 10 Cities by Orders
-
-A bar chart identifying cities with the highest number of orders.
-
-### Monthly Revenue Trend
-
-A line chart showing sales performance across the months of 2023.
-
-### Revenue by Hour of the Day
-
-A line chart highlighting peak hours when customers place orders.
-
-### Revenue by Occasion
-
-A comparison of revenue generated across events such as:
-
-* Anniversary
-* Raksha Bandhan
-* Holi
-* Birthday
-* Valentine’s Day
-* Diwali
-
----
-
-# 🎛 Interactive Dashboard Filters
-
-The dashboard includes slicers that allow users to interactively filter data by:
-
-* **Occasion**
-* **Order Date**
-* **Delivery Date**
-
-These filters make the dashboard dynamic and help users explore insights easily.
-
----
-
-# 🛠 Tools Used
-
-This project was developed using **Microsoft Excel**.
-
-Excel features used:
-
+* Microsoft Excel
 * Pivot Tables
+* Power Pivot
+* Power query 
 * Pivot Charts
 * Slicers
-* Data Aggregation
-* Dashboard Design
-
----
-# 💡 Key Insights
-
-From the analysis, several insights can be observed:
-
-* Sales increase significantly during special occasions and festivals.
-* A small number of products contribute to a large portion of total revenue.
-* Some cities consistently generate more orders than others.
-* Customer ordering activity peaks during specific hours of the day.
-
-These insights can help the business optimize marketing campaigns, inventory planning, and delivery operations.
-
----
-
-# 📸 Dashboard Preview
-<img width="1476" height="589" alt="image" src="https://github.com/user-attachments/assets/425a2c28-7e33-46da-9317-2a47ff417c4a" />
+* Interactive Dashboard Design
 
 ---
